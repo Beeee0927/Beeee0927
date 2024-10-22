@@ -1,0 +1,4 @@
+- 😉 Hi, I'm @Beeee0927, from China, and my Chinese name is 陈文.
+- 🐣 As a sophomore, I'm interning in a little company now.
+- 📖 I'm a fronter, intrested in Vue3 and React.
+- ✨ I hope I could get offer from ByteDance before junior.
