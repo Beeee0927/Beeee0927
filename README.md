@@ -1,4 +1,4 @@
 - 😉 Hi, I'm @Beeee0927, from China, and my Chinese name is 陈文.
 - 🐣 I'm 19 , a sophomore this year.
-- 📖 I'm a fronter, intrested in Vue3 and React.
+- 📖 I'm a fronter now, but i also want to be a full stacker.
 - ✨ I'm interning in a little company now, and I hope I could get offer from ByteDance before junior.
