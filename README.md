@@ -1,3 +1,1 @@
-- 😉 Hi, I'm @Beeee0927, from China, and my Chinese name is 陈文.
-- 🐣 I'm 19 , a sophomore this year.
-- 📖 I'm a fronter now, but i also want to be a full stacker.
+啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
